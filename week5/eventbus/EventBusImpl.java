@@ -1,4 +1,4 @@
-package modernJava.week4.src.bg.sofia.uni.fmi.mjt.eventbus;
+package modernJava.week5.eventbus;
 
 import bg.sofia.uni.fmi.mjt.eventbus.events.Event;
 import bg.sofia.uni.fmi.mjt.eventbus.exception.MissingSubscriptionException;

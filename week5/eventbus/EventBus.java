@@ -1,4 +1,4 @@
-package modernJava.week4.src.bg.sofia.uni.fmi.mjt.eventbus;
+package modernJava.week5.eventbus;
 
 import java.time.Instant;
 import java.util.Collection;
